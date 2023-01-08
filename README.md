@@ -1,7 +1,6 @@
 Artigo:
 
 Machine Learning Applied in the Evaluation of Airport Projects
-SITRAER 2022
 
 Universidade Federal de Pernambuco (UFPE)
 
