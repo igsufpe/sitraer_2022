@@ -7,9 +7,9 @@ Universidade Federal de Pernambuco (UFPE)
 Data: Agosto / 2022
 
 Autores:
-*   Ítalo Guedes - italo.guedes@ufpe.br [https://github.com/igsufpe]
+*   Ítalo Guedes - italo.guedes@ufpe.br - [https://github.com/igsufpe]
 *   Max Andrade - max.andrade@ufpe.br 
-*   Cleber Zanchettin - cz@cin.ufpe.br [https://github.com/zanche]
+*   Cleber Zanchettin - cz@cin.ufpe.br - [https://github.com/zanche]
 
 Breve Descrição:
 
